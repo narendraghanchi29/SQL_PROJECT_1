@@ -1,2 +1,5 @@
- BlinkIT Grocery Sales Dashboard (Power BI + Excel)
-A complete data analysis project where I cleaned raw sales data in Excel and built an interactive Power BI dashboard showcasing KPIs like Total Sales, Top-Selling Categories, and Monthly Trends. Delivered insights to improve category-wise marketing strategies
+Pizza Sales Data Analysis (SQL + Excel)
+
+Analyzed pizza order data using advanced SQL queries to identify peak sales times,
+top-selling items, and customer preferences. Visualized the results in an Excel dashboard for quick business decision-making.
+
