@@ -1,2 +1,2 @@
-# SQL_PROJECT_1
-HERE IS COMPLETE MY SQL PROJECT BASED ON SALES DATA LIKE A FOOD PRODUCT SALES ANALAYSING AND WRITR QUERY TO UNDERSTAND LARGE DATA IN SOT WAY
+ BlinkIT Grocery Sales Dashboard (Power BI + Excel)
+A complete data analysis project where I cleaned raw sales data in Excel and built an interactive Power BI dashboard showcasing KPIs like Total Sales, Top-Selling Categories, and Monthly Trends. Delivered insights to improve category-wise marketing strategies
